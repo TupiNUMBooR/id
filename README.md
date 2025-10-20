@@ -3,7 +3,7 @@ identity information
 
 ## About me
 
-<img width="801" height="518" alt="image" src="https://github.com/user-attachments/assets/342383fb-5ae3-41a1-9ec5-7188f6668248" />
+<img width="905" height="615" alt="image" src="https://github.com/user-attachments/assets/eaa81d6b-dd59-4a53-bd7a-38ae87e78116" />
 
 ## Skills
 
