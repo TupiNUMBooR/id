@@ -11,4 +11,11 @@ identity information
 
 ## Hobbies
 
+- Self-analysis (Writing diary, awareness, intention to be myself)
+- Parties!
+- Exploring unconventional experiences
+- Creativity gaming (RimWorld, Empyrion)
+- Coop gaming (7dtd, Valheim)
+- Competition gaming (Dota)
+
 ## Connections
