@@ -1,7 +1,6 @@
-# ID
-identity information
-
 ## About me
+
+Hi! I'm a software developer who likes **backend** and **DevOps**. I enjoy working where machines talk to machines. I like creating things and solving hard problems.
 
 <img width="905" height="615" alt="image" src="https://github.com/user-attachments/assets/eaa81d6b-dd59-4a53-bd7a-38ae87e78116" />
 
