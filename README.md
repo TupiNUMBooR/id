@@ -7,7 +7,23 @@ identity information
 
 ## Skills
 
+- Java, Spring Boot
+- Docker
+- GitLab, GitHub CI/CD
+- ArchLinux, i3, bash, ffmpeg
+- PostgreSQL, MySQL, MongoDB
+
+### Secondary skills
+
+- C#, Unity
+- JavaScript, Node.js
+
 ## Projects
+
+- This GitHub (**Ask me for a key!**)
+- [Java Courses](https://javaops.ru/certificate/topjava?lang=en&email=tupinumboor@gmail.com)
+- [Examples of my work as Unity Developer - YouTube](https://youtu.be/jdV6eylSV1o)
+- [Space Carrot в Steam](https://s.team/a/1174490)
 
 ## Hobbies
 
@@ -19,3 +35,7 @@ identity information
 - Competition gaming (Dota)
 
 ## Connections
+
+- [GitHub](https://github.com/TupiNUMBooR)
+- TupiNUMBooR@gmail.com
+- Telegram - @TupiNUMBooR
