@@ -17,12 +17,14 @@ Hi! I'm a software developer who likes **backend** and **DevOps**. I enjoy worki
 - C#, Unity
 - JavaScript, Node.js
 
-## Projects
+## Experience [WIP]
 
-- This GitHub (**Ask me for a key!**)
+- This GitHub
 - [Java Courses](https://javaops.ru/certificate/topjava?lang=en&email=tupinumboor@gmail.com)
 - [Examples of my work as Unity Developer - YouTube](https://youtu.be/jdV6eylSV1o)
-- [Space Carrot в Steam](https://s.team/a/1174490)
+- [Space Carrot в Steam](https://s.team/a/1174490) (**Ask me for a key!**)
+- 7 years of gamedev
+- 3 years of java backend dev
 
 ## Hobbies
 
