@@ -39,3 +39,4 @@ identity information
 - [GitHub](https://github.com/TupiNUMBooR)
 - TupiNUMBooR@gmail.com
 - Telegram - @TupiNUMBooR
+- [hh.ru](https://hh.ru/resume/c5114772ff08c0908a0039ed1f423967416438)
