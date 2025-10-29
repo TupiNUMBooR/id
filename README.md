@@ -3,7 +3,7 @@
 Hi! I'm a Senior Software Developer who likes **backend** and **DevOps**.
 I enjoy working where machines talk to machines.
 I like creating things and solving hard problems.
-Naturally became the go-to person in teams - the one others trusted to figure things out.
+Often become the go-to person in teams - the one others trust to figure things out.
 Right now I mostly work with Java + Spring Boot + Docker.
 
 <img width="905" height="615" alt="image" src="https://github.com/user-attachments/assets/eaa81d6b-dd59-4a53-bd7a-38ae87e78116" />
@@ -27,7 +27,7 @@ Level 33 Java Developer. Passive skill: "Fixes things by intuition."
 
 - Made some utilities: [Weather bot](https://github.com/TupiNUMBooR/froglyn) | [AI voice bot](https://github.com/TupiNUMBooR/telegram-voice-ai-bot) | [local AI container](https://github.com/TupiNUMBooR/ai) | more in [GitHub](https://github.com/TupiNUMBooR)
 - 3 years of Java backend development
-- Worked 2 years in a bank, configured services to meet information security and compliance requirements
+- Worked 2 years in a bank, making sure our services meet security and various rules
 - Planned and broke down megatasks into chunks, distributing them to developers
 - Migrated a monolithic app from Spring 2.6 to 3.3
 - Learned Docker and GitLab CI/CD from scratch
