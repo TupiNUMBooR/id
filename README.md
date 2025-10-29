@@ -1,12 +1,14 @@
 ## About me
 
-Hi! I'm a senior software developer who likes **backend** and **DevOps**.
+Hi! I'm a Senior Software Developer who likes **backend** and **DevOps**.
 I enjoy working where machines talk to machines.
 I like creating things and solving hard problems.
 Naturally became the go-to person in teams — the one others trusted to figure things out.
 Right now I mostly work with Java + Spring Boot + Docker.
 
 <img width="905" height="615" alt="image" src="https://github.com/user-attachments/assets/eaa81d6b-dd59-4a53-bd7a-38ae87e78116" />
+
+Level 33 Java Developer. Passive skill: "Fixes things by intuition."
 
 ## Skills
 
@@ -30,7 +32,8 @@ Right now I mostly work with Java + Spring Boot + Docker.
 - Migrated a monolithic app from Spring 2.6 to 3.3
 - Learned Docker and GitLab CI/CD from scratch
 - Presented locally on Docker, Git, and AI
-- Mentored one colleague
+- Mentored teammates
+- Wrote tons of detailed instructions for those who work after me
 - 7 years of gamedev using Unity - creating new titles and working with live projects
 - Made my own game [Space Carrot in Steam](https://s.team/a/1174490) (**Ask me for a key!**)
 - Made a video about my game projects [Examples of my work as Unity Developer - YouTube](https://youtu.be/jdV6eylSV1o)
@@ -46,6 +49,8 @@ Right now I mostly work with Java + Spring Boot + Docker.
 - Competition gaming (Dota)
 
 ## Connections
+
+If you read this far, you probably deserve a quest reward — text me!
 
 - Telegram - @TupiNUMBooR
 - TupiNUMBooR@gmail.com
