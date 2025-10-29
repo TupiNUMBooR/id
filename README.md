@@ -3,7 +3,7 @@
 Hi! I'm a Senior Software Developer who likes **backend** and **DevOps**.
 I enjoy working where machines talk to machines.
 I like creating things and solving hard problems.
-Naturally became the go-to person in teams — the one others trusted to figure things out.
+Naturally became the go-to person in teams - the one others trusted to figure things out.
 Right now I mostly work with Java + Spring Boot + Docker.
 
 <img width="905" height="615" alt="image" src="https://github.com/user-attachments/assets/eaa81d6b-dd59-4a53-bd7a-38ae87e78116" />
