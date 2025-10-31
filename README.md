@@ -23,8 +23,9 @@ Level 33 Java Developer. Passive skill: "Fixes things by intuition."
 - C#, Unity
 - JavaScript, Node.js
 
-## Experience
+## Experience 
 
+- LeetCode <img width="48" height="48" alt="DCC October 2025!" src="https://assets.leetcode.com/static_assets/marketing/202510.gif" />
 - Made some utilities: [Weather bot](https://github.com/TupiNUMBooR/froglyn) | [AI voice bot](https://github.com/TupiNUMBooR/telegram-voice-ai-bot) | [local AI container](https://github.com/TupiNUMBooR/ai) | more in [GitHub](https://github.com/TupiNUMBooR)
 - 3 years of Java backend development
 - Worked 2 years in a bank, making sure our services meet security and various rules
