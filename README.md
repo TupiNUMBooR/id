@@ -43,7 +43,8 @@ Level 33 Java Developer. Passive skill: "Fixes things by intuition."
 ## Hobbies
 
 - Making some YouTube ambient [@SpaceDreamer1111](https://www.youtube.com/@SpaceDreamer1111)
-- Self-analysis (Writing diary, awareness, intention to be myself)
+- Mindfulness & self-reflection
+- Lucid Dreaming
 - Parties! I love lively company and good vibes
 - Exploring unconventional experiences
 - Creativity gaming (RimWorld, Empyrion)
