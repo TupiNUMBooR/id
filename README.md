@@ -53,7 +53,7 @@ Level 33 Java Developer. Passive skill: "Fixes things by intuition."
 
 ## Connections
 
-If you read this far, you probably deserve a quest reward — text me!
+If you read this far, you probably deserve a quest reward — text me! Or create an [Issue](https://github.com/TupiNUMBooR/id/issues/new) 😄
 
 - Telegram - @TupiNUMBooR
 - TupiNUMBooR@gmail.com
