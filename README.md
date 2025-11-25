@@ -6,7 +6,7 @@ I like creating things and solving hard problems.
 Often become the go-to person in teams - the one others trust to figure things out.
 Right now I mostly work with Java + Spring Boot + Docker.
 
-<img width="905" height="615" alt="image" src="https://github.com/user-attachments/assets/eaa81d6b-dd59-4a53-bd7a-38ae87e78116" />
+<img width="724" height="492" alt="image" src="https://github.com/user-attachments/assets/eaa81d6b-dd59-4a53-bd7a-38ae87e78116" />
 
 Level 33 Java Developer. Passive skill: "Fixes things by intuition."
 
@@ -26,7 +26,7 @@ Level 33 Java Developer. Passive skill: "Fixes things by intuition."
 ## Experience 
 
 - LeetCode <img width="48" height="48" alt="DCC October 2025!" src="https://assets.leetcode.com/static_assets/marketing/202510.gif" /> <img width="48" height="48" alt="50 Days Badge 2025!" src="https://assets.leetcode.com/static_assets/others/2550.gif" /> 
-- Made some utilities: [Weather bot](https://github.com/TupiNUMBooR/froglyn) | [AI voice bot](https://github.com/TupiNUMBooR/telegram-voice-ai-bot) | [local AI container](https://github.com/TupiNUMBooR/ai) | more in [GitHub](https://github.com/TupiNUMBooR)
+- Made some utilities: [Weather bot](https://github.com/TupiNUMBooR/froglyn) \| [AI voice bot](https://github.com/TupiNUMBooR/telegram-voice-ai-bot) \| [local AI container](https://github.com/TupiNUMBooR/ai) \| more in [GitHub](https://github.com/TupiNUMBooR)
 - 3 years of Java backend development
 - Worked 2 years in a bank, making sure our services meet security and various rules
 - Planned and broke down megatasks into chunks, distributing them to developers
