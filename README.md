@@ -25,7 +25,7 @@ Level 33 Java Developer. Passive skill: "Fixes things by intuition."
 
 ## Experience 
 
-- LeetCode <img width="48" height="48" alt="DCC October 2025!" src="https://assets.leetcode.com/static_assets/marketing/202511.gif" /> <img width="48" height="48" alt="DCC October 2025!" src="https://assets.leetcode.com/static_assets/marketing/202510.gif" /> <img width="48" height="48" alt="50 Days Badge 2025!" src="https://assets.leetcode.com/static_assets/others/2550.gif" /> 
+- LeetCode <img width="48" height="48" alt="100 Days Badge 2025!" src="https://assets.leetcode.com/static_assets/others/25100.gif" /> <img width="48" height="48" alt="DCC October 2025!" src="https://assets.leetcode.com/static_assets/marketing/202511.gif" /> <img width="48" height="48" alt="DCC October 2025!" src="https://assets.leetcode.com/static_assets/marketing/202510.gif" /> <img width="48" height="48" alt="50 Days Badge 2025!" src="https://assets.leetcode.com/static_assets/others/2550.gif" /> 
 - Made some utilities: [Weather bot](https://github.com/TupiNUMBooR/froglyn) \| [AI voice bot](https://github.com/TupiNUMBooR/telegram-voice-ai-bot) \| [local AI container](https://github.com/TupiNUMBooR/ai) \| more in [GitHub](https://github.com/TupiNUMBooR)
 - 3 years of Java backend development
 - Worked 2 years in a bank, making sure our services meet security and various rules
