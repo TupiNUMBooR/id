@@ -6,14 +6,16 @@ Java, Spring Boot, Docker, PostgreSQL
 
 # Experience
 
-## Backend Developer Self-employed (August 2025 - Now)
+## Backend Developer | Self-employed | August 2025 - Now
+6 months
 
 - Made a couple of AI bots
 - Learned NodeJS as alternative to Java
 - Automatized creating and publishing videos using AI
 - Made this resume
 
-## Senior Java Backend Developer in SovComBank (Full-time  (May 2023 - July 2025)
+## Java Backend Developer | SovComBank | Full-time | May 2023 - July 2025
+2 yers 3 months | Full-time | Khabarovsk, Russia
 
 - Implemented business features for banking-related services
 - Planned and broke down mega tasks into chunks, distributing them to developers
@@ -39,14 +41,24 @@ Java, Spring Boot, Docker, PostgreSQL
 - Delivered internal technical presentations on Docker, Git, and AI topics
 - Explored and integrated local AI tooling using Ollama for a team
 
-## Unity Developer in OOO IRPSU (Apr 2021 - Aug 2022)
+## Game Developer | OOO IRPSU | Apr 2021 - Aug 2022
+1 year 5 months | Full-time | Remote
 
-OOO IRPSU · Full-timeOOO IRPSU · Full-time
-Apr 2021 - Aug 2022 · 1 yr 5 mosApr 2021 to Aug 2022 · 1 yr 5 mos
-Moscow, Russia · RemoteMoscow, Russia · Remote
-Worked on game Schrodinger's Treasure
-Closely collaborated with an animator and a PHP developer
+- Developed a mobile game as a solo client developer
+- Collaborated closely a backend developer (PHP)
+- Interviewed 2 animators
+- Onboarded and mentored an animator
+- Participated in planning and defining game features
+- Researched, designed, and implemented a cloud-based localization workflow using Google Sheets
+- Set up CI/CD pipelines for Unity with automated build and deployment to Google Play and the App Store
 
+## Game Developer | Self employeed | Aug 2019 - Apr 2021
+1 year 9 months
+
+- Developed and released an independent indie game on Steam
+- Implemented Steam platform features: achievements, leaderboards, cloud saves, and gamepad support
+- Handled full game localization
+- Worked on multiple game prototypes and gameplay concepts
 
 
 ## About me
