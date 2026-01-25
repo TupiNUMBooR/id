@@ -14,14 +14,29 @@ Java, Spring Boot, Docker, PostgreSQL
 
 ## Senior Java Backend Developer in SovComBank (Full-time  (May 2023 - July 2025)
 
-- Implemented business-features
-- Ensured our services meet security and various other bank rules, e.g. SSDLC
-- Planned and broke down megatasks into chunks, distributing them to developers
-- Migrated a monolithic app from Spring 2.6 to 3.3
-- Learned Docker and GitLab CI/CD from scratch
-- Presented locally on Docker, Git, and AI
-- Mentored teammates
+- Implemented business features for banking-related services
+- Planned and broke down mega tasks into chunks, distributing them to developers
+- Mentored teammates, including non-developers
 - Wrote tons of detailed instructions for those who work after me
+- Migrated a monolithic app from Spring Boot 2.6 to 3.3
+- Created new microservices, including dockerifying, gitlab ci/cd, database
+- Worked with Spring WebFlux in reactive servicess
+- Worked with authentication and authorization mechanisms (session-based and token-based) across different projects
+- Extracted shared code into reusable Java libraries
+- Actively worked with REST APIs using Postman for development, testing, and debugging
+- Worked with OpenAPI, including code generation from OpenAPI specifications
+- Integrated external face recognition system
+- Worked with YouTrack and GitLab APIs
+- Reworked GitLab CI/CD pipelines, improving build speed, reliability, adding new features and new microservices
+- Updated Helm charts for Kubernetes configuration and deployment
+- Initiated and coordinated infrastructure change requests with internal banking IT departments
+- Rolled back production deployments after detecting critical bugs
+- Investigated and fixed memory consumption issues (GC tuning, JVM memory configuration, Metaspace tuning)
+- Identified and fixed performance bottlenecks, including N+1 query problems
+- Achieved ~90% test coverage
+- Ensured services complied with security and internal banking requirements (including SSDLC awareness)
+- Delivered internal technical presentations on Docker, Git, and AI topics
+- Explored and integrated local AI tooling using Ollama for a team
 
 ## Unity Developer in OOO IRPSU (Apr 2021 - Aug 2022)
 
