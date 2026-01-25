@@ -11,6 +11,7 @@ Java, Spring Boot, Docker, PostgreSQL
 - Made a couple of AI bots
 - Learned NodeJS as alternative to Java
 - Automatized creating and publishing videos using AI
+- Made this resume
 
 ## Senior Java Backend Developer in SovComBank (Full-time  (May 2023 - July 2025)
 
