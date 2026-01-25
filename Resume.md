@@ -14,7 +14,7 @@ Java, Spring Boot, Docker, PostgreSQL
 - Automatized creating and publishing videos using AI
 - Made this resume
 
-## Java Backend Developer | SovComBank | Full-time | May 2023 - July 2025
+## Java Backend Developer | SovComBank | May 2023 - July 2025
 2 yers 3 months | Full-time | Khabarovsk, Russia
 
 - Implemented business features for banking-related services
